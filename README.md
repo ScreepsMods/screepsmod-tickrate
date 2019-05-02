@@ -1,4 +1,8 @@
 # screepsmod-tickrate
+Obsolete, use screepsmod-admin-utils
+
+# Obsolete
+Functionality has been moved to screepsmod-admin-utils
 
 ## This allows a server admin to set tick rate on the screeps private server
 
